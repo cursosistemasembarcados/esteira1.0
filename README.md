@@ -3,7 +3,7 @@ Projeto realizado do 5o semestre do curso de Sistemas Embarcados no 1o semestre 
   
   
 <img src="/imagens/esteira3.png" alt="Esteira Coletora" style="height:auto; width:50%;"/>
-**Esteira Coletora**
+__Esteira Coletora__
 
 ## Resumo
 
