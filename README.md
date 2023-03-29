@@ -1,6 +1,6 @@
 # Esteira Coletora 
 Projeto realizado do 5o semestre do curso de Sistemas Embarcados no 1o semestre de 2022  
-<img src="/imagens/esteira3.png" alt="Esteira Coletora" style="height:auto; width:100%;"/>
+<img src="/imagens/esteira3.png" alt="Esteira Coletora" style="height:auto; width:50%;"/>
 
 ## Resumo
 
